@@ -10,7 +10,7 @@ class vector{
             //Code
         }
     //&many other methods
-}
+};
 
 int main(){
     Vector <int> myVec(ptr);   
